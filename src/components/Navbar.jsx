@@ -8,6 +8,8 @@ const Navbar = () => {
         <Link to='/'><li className='text-xl text-black p-4 rounded-lg hover:bg-black hover:text-white'>Home</li></Link>
         <Link to='/about'><li className='text-xl text-black p-4 rounded-lg hover:bg-black hover:text-white'>About</li></Link>
         <Link to='/contact'><li className='text-xl text-black p-4 rounded-lg hover:bg-black hover:text-white'>Contact</li></Link>
+        <Link to='/products'><li className='text-xl text-black p-4 rounded-lg hover:bg-black hover:text-white'>Product List</li></Link>
+        <Link to='/profile'><li className='text-xl text-black p-4 rounded-lg hover:bg-black hover:text-white'>Profile</li></Link>
       </ul>
     </div>
   )
