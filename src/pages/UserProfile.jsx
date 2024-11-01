@@ -2,8 +2,8 @@ import React from 'react'
 
 const UserProfile = () => {
   return (
-    <div>
-      <h1>UserProfile นะเว้ย</h1>
+    <div className='w-full h-screen text-center justify-center m-auto p-20 text-3xl'>
+      <h1>UserProfile Eiei</h1>
     </div>
   )
 }
